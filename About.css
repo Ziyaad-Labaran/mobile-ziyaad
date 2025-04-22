@@ -121,7 +121,7 @@ nav a:hover {
 }
 
 #about {
-    background: linear-gradient(rgba(33, 28, 28, 0.627), rgba(38, 38, 66, 0.403)), url(img/PayrollNY-1.jpg);
+    background: linear-gradient(rgba(33, 28, 28, 0.627), rgba(38, 38, 66, 0.403)), url(PayrollNY-1.jpg);
     background-size: cover;
     background-position: center;
     padding: 60px 20px;
@@ -185,7 +185,7 @@ nav a:hover {
 }
 
 .team-member {
-    background: url(img/brand-story.jpg);
+    background: url(brand-story.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -212,7 +212,7 @@ nav a:hover {
 }
 
 #why-choose-us {
-    background: url(img/group-problem-solving-process.jpg);
+    background: url(group-problem-solving-process.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
